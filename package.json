@@ -1,5 +1,5 @@
 {
-  "name": "instagram",
+  "name": "instagram/tiktok/facebook/x media downloadder",
   "version": "1.0.0",
   "main": "bot.js",
   "scripts": {
@@ -14,3 +14,8 @@
     "whatsapp-web.js": "^1.26.0"
   }
 }
+"scripts": {
+  "start": "node bot.js" // or your main file
+}
+
+
