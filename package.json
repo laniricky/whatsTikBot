@@ -15,7 +15,7 @@
   }
 }
 "scripts": {
-  "start": "node bot.js" // or your main file
+  "start": "node bot.js"
 }
 
 
